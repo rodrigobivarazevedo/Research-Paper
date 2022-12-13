@@ -1,12 +1,12 @@
 #jekyll configuration
-url: "https://rodrigobivarazevedo.github.io/research-paper/"
-title: AI in the healthcare sector
-author: Rodrigo Azevedo
-name: rodrigobivarazevedo
-email: rodrigobivarazevedo@gmail.com
+name: AI in the healthcare sector
 description: > # this means to ignore newlines until "show_excerpts:"
   How can Artificial Intelligence create efficiency in Digital Health
-show_excerpts: false
+url: "https://rodrigobivarazevedo.github.io/research-paper/"
+title: AI in the healthcare sector
+markdown: kramdown
+theme: minima
+
 
  social_links:
     - { platform: github,         user_url: "https://github.com/rodrigobivarazevedo" }
@@ -14,13 +14,6 @@ show_excerpts: false
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/rodrigo-azevedo-b25940258/" }
     
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
 
-# Build settings
-markdown: kramdown
-theme: minima
 
 
