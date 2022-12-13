@@ -1,14 +1,14 @@
 #jekyll configuration
-url: "https://rodrigobivarazevedo.github.io/research-paper"
+url: "https://rodrigobivarazevedo.github.io/research-paper/"
 title: AI in the healthcare sector
 author: Rodrigo Azevedo
-  name: rodrigobivarazevedo
-  email: rodrigobivarazevedo@gmail.com
+name: rodrigobivarazevedo
+email: rodrigobivarazevedo@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   How can Artificial Intelligence create efficiency in Digital Health
+show_excerpts: false
 
-
-  social_links:
+ social_links:
     - { platform: github,         user_url: "https://github.com/rodrigobivarazevedo" }
     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/rodrigo-azevedo-b25940258/" }
