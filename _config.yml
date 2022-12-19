@@ -1,2 +1,11 @@
 # jekyll configuration
 theme: minima
+minima:
+  skin: dark
+author:
+  name: Rodrigo
+  email: "rodrigobivarazevedo@gmail.com"
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/rodrigobivarazevedo" }
+    - { platform: linkdin, user_url: "https://www.linkedin.com/in/rodrigo-azevedo-b25940258/" }
