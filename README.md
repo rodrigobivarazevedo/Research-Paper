@@ -1,3 +1,5 @@
+![](image.jpg)
+
 ## Introduction
 
  Artificial intelligence (AI) is a rapidly growing technology that is being applied to various industries, 
