@@ -1,4 +1,5 @@
 ![](main_img.jpg)
+image used from [](http://www.medibot.com.au/ai-general-practice-dentist.php)
 
 ## Introduction
 
