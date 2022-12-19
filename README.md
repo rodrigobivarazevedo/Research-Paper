@@ -1,5 +1,5 @@
 ![](main_img.jpg)
-image used from [](http://www.medibot.com.au/ai-general-practice-dentist.php)
+
 
 ## Introduction
 
@@ -49,6 +49,6 @@ AI is an interdisciplinary field of study that focuses on the development of mac
  [Health Data Management:](https://www.healthdatamanagement.com/topics/artificial-intelligence) 
  [Health IT Analytics:](https://healthitanalytics.com/topics/artificial-intelligence)
 
-    
+ image used from [](http://www.medibot.com.au/ai-general-practice-dentist.php)   
     
  
