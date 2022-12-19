@@ -1,4 +1,4 @@
-![](image.jpg)
+![](main_img.jpg)
 
 ## Introduction
 
