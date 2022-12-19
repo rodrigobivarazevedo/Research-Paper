@@ -30,4 +30,22 @@ AI is an interdisciplinary field of study that focuses on the development of mac
     such as scheduling appointments, billing, and medical records management, as well as to analyze large amounts of data and provide personalized 
     care and treatments. 
     AI can also help healthcare providers make better use of their resources and improve patient outcomes
+    
+    
+    
+    
+## Sources used 
+ [Stanford Center for Biomedical Informatics Research:](https://med.stanford.edu/cbmi.html) 
+ [Harvard Medical School Artificial Intelligence:](https://www.hms.harvard.edu/artificial-intelligence) 
+ [AI in Medicine Special Interest Group:](https://aimsig.org/) 
+ [Artificial Intelligence in Medicine:](https://www.annualreviews.org/journal/aim) 
+ [American Medical Association:](https://www.ama-assn.org/delivering-care/artificial-intelligence-medicine) 
+ [Artificial Intelligence in Healthcare:](https://www.cmu.edu/healthcare/research/ai-healthcare/) 
+ [American Association of Artificial Intelligence:](https://www.aaai.org/AITopics/aitopics-medicine.php) 
+ [American College of Medical Informatics:](https://www.acmi.net/acm/) 
+ [Health Data Management:](https://www.healthdatamanagement.com/topics/artificial-intelligence) 
+ [Health IT Analytics:](https://healthitanalytics.com/topics/artificial-intelligence)
+
+    
+    
  
