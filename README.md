@@ -1,14 +1,14 @@
-# Introduction
+## Introduction
 
-## Artificial intelligence (AI) is a rapidly growing technology that is being applied to various industries, 
+ Artificial intelligence (AI) is a rapidly growing technology that is being applied to various industries, 
    including the healthcare sector. AI has the potential to improve patient care and reduce costs by automating processes, 
    streamlining operations, and providing more accurate diagnoses. AI can also help with the management of medical records, 
    data analysis, and disease prevention. This research paper will explore the implications of AI in the healthcare sector 
    and how it can create greater efficiency.
    
-# Background
+## Background
 
-## AI is an interdisciplinary field of study that focuses on the development of machines and computer systems that can 
+AI is an interdisciplinary field of study that focuses on the development of machines and computer systems that can 
   simulate human behavior and reasoning. AI technologies are now being used in a variety of ways, including in healthcare. 
   AI-based systems can be used to assist healthcare professionals in making better diagnoses and providing more efficient treatments. 
   AI can also be used to analyze large amounts of data, which can help healthcare providers make better decisions and improve patient outcomes. 
@@ -22,9 +22,9 @@
   AI can also be used to help healthcare providers make better use of their resources, such as by providing more accurate diagnoses and treatments, 
   and by providing better disease prevention and detection. 
   
-# Conclusion 
+## Conclusion 
   
-##  AI is a rapidly growing technology that is being applied to various industries, including the healthcare sector. AI has the potential to improve 
+  AI is a rapidly growing technology that is being applied to various industries, including the healthcare sector. AI has the potential to improve 
     patient care and reduce costs by automating processes, streamlining operations, and providing more accurate diagnoses. 
     AI can also help with the management of medical records, data analysis, and disease prevention. AI technologies can be used to automate processes, 
     such as scheduling appointments, billing, and medical records management, as well as to analyze large amounts of data and provide personalized 
