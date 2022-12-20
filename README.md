@@ -1,6 +1,7 @@
 ![](main_img.jpg)
 
-
+ image used from [www.medibot.com.au/ai-general-practice-dentist.php](http://www.medibot.com.au/ai-general-practice-dentist.php)  
+ 
 ## Introduction
 
  Artificial intelligence (AI) is a rapidly growing technology that is being applied to various industries, 
@@ -38,17 +39,17 @@ AI is an interdisciplinary field of study that focuses on the development of mac
     
     
 ## Sources used 
- [Stanford Center for Biomedical Informatics Research:](https://med.stanford.edu/cbmi.html) 
- [Harvard Medical School Artificial Intelligence:](https://www.hms.harvard.edu/artificial-intelligence) 
- [AI in Medicine Special Interest Group:](https://aimsig.org/) 
- [Artificial Intelligence in Medicine:](https://www.annualreviews.org/journal/aim) 
- [American Medical Association:](https://www.ama-assn.org/delivering-care/artificial-intelligence-medicine) 
- [Artificial Intelligence in Healthcare:](https://www.cmu.edu/healthcare/research/ai-healthcare/) 
- [American Association of Artificial Intelligence:](https://www.aaai.org/AITopics/aitopics-medicine.php) 
- [American College of Medical Informatics:](https://www.acmi.net/acm/) 
- [Health Data Management:](https://www.healthdatamanagement.com/topics/artificial-intelligence) 
- [Health IT Analytics:](https://healthitanalytics.com/topics/artificial-intelligence)
+ 1. [Stanford Center for Biomedical Informatics Research](https://med.stanford.edu/cbmi.html) 
+ 2. [Harvard Medical School Artificial Intelligence](https://www.hms.harvard.edu/artificial-intelligence) 
+ 3. [AI in Medicine Special Interest Group](https://aimsig.org/) 
+ 4. [Artificial Intelligence in Medicine](https://www.annualreviews.org/journal/aim) 
+ 5. [American Medical Association](https://www.ama-assn.org/delivering-care/artificial-intelligence-medicine) 
+ 6. [Artificial Intelligence in Healthcare](https://www.cmu.edu/healthcare/research/ai-healthcare/) 
+ 7. [American Association of Artificial Intelligence](https://www.aaai.org/AITopics/aitopics-medicine.php) 
+ 8. [American College of Medical Informatics](https://www.acmi.net/acm/) 
+ 9. [Health Data Management](https://www.healthdatamanagement.com/topics/artificial-intelligence) 
+ 10. [Health IT Analytics](https://healthitanalytics.com/topics/artificial-intelligence)
 
- image used from [](http://www.medibot.com.au/ai-general-practice-dentist.php)   
+ 
     
  
