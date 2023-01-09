@@ -96,12 +96,9 @@ With the rise of cloud-based solutions in AI systems, large amounts of personal 
 
 ![](8_img.jpg)
 
-image used from [ https://www.eib.org/attachments/lucalli/20220206-european-cybersecurity-investment-platform-en.pdf](https://www.eib.org/attachments/lucalli/20220206-european-cybersecurity-investment-platform-en.pdf) 
-
-
-
 CAGR – the compound annual growth rate, is the annualized average rate of revenue growth between any given years.
 
+image used from [ https://www.eib.org/attachments/lucalli/20220206-european-cybersecurity-investment-platform-en.pdf](https://www.eib.org/attachments/lucalli/20220206-european-cybersecurity-investment-platform-en.pdf)
 
 ## Conclusion 
 
