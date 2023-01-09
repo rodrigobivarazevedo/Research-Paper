@@ -13,7 +13,9 @@ This research paper will explore the potential improvements in healthcare with A
 
 ![](1_img.jpg)
    
-
+ image used from [https://www.sciencedirect.com/science/article/pii/S200103702030372X](https://www.sciencedirect.com/science/article/pii/S200103702030372X) 
+ 
+ 
 ## AI-Driven solutions in healthcare
 
 
@@ -30,6 +32,8 @@ Example of “The role of AI technology in prediction, diagnosis and treatment o
 
 ![](2_img.jpg)
 
+ image used from [https://link.springer.com/article/10.1007/s10462-021-10034-y](https://link.springer.com/article/10.1007/s10462-021-10034-y) 
+
 
 ### Drug Discovery and Disease Modeling 
 
@@ -41,6 +45,8 @@ Example: Use of AI in pharmaceutical companies
 
 
 ![](3_img.jpg)
+
+ image used from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7577280/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7577280/) 
 
 
 
@@ -59,6 +65,8 @@ Example: Screening colonoscopy
 
 ![](4_img.jpg)
 
+ image used from [https://www.thelancet.com/action/showPdf?pii=S2589-7500%2822%2900042-5](https://www.thelancet.com/action/showPdf?pii=S2589-7500%2822%2900042-5) 
+
 
 ### Accuracy
 
@@ -69,6 +77,8 @@ Example: Advancing artificial intelligence from machine learning to deep learnin
 
 
 ![](5_img.jpg)
+
+ image used from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7010403/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7010403/) 
 
 
 ### Privacy
@@ -85,6 +95,10 @@ With the rise of cloud-based solutions in AI systems, large amounts of personal 
 
 
 ![](8_img.jpg)
+
+image used from [ https://www.eib.org/attachments/lucalli/20220206-european-cybersecurity-investment-platform-en.pdf](https://www.eib.org/attachments/lucalli/20220206-european-cybersecurity-investment-platform-en.pdf) 
+
+
 
 CAGR – the compound annual growth rate, is the annualized average rate of revenue growth between any given years.
 
