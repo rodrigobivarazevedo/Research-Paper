@@ -10,8 +10,10 @@ Artificial intelligence (AI) is a rapidly growing technology that is being appli
 The deployment of AI systems can improve efficiency in regard to cost and time management by automating administrative tasks and repetitive processes that can be streamlined. It can also increase the effectiveness of medical procedures as AI can be used to analyze specific data and make connections or predictions that humans may not be able to when trying to diagnose a patient or developing new drugs and treatments, enabling healthcare professionals to make more informed decisions. 
 This research paper will explore the potential improvements in healthcare with AI, the efficiency and effectiveness increase it could bring, and the challenges faced upon its implementation.
 
+
 ![](1_img.jpg)
    
+
 ## AI-Driven solutions in healthcare
 
 
@@ -25,6 +27,7 @@ Example of “The role of AI technology in prediction, diagnosis and treatment o
 
 “Introduction of an artificial neural network (ANN) with input layer (I), hidden layer (H), bias layer (B) and output layer (O). Connections between each node are dynamically adjusted to the feedback of training process. Positive correlation is showed in black line while negative correlation is in grey line. The thickness of line is in proportion to relative significance. Such ANN allows new input and generates given output”
 
+
 ![](2_img.jpg)
 
 
@@ -36,7 +39,10 @@ Example: Use of AI in pharmaceutical companies
 
 “To decrease the financial cost and chances of failures that accompany VS, pharmaceutical companies are shifting towards AI. There was an increase in the AI market from US$200 million in 2015 to US$700 million in 2018, and is expected to increase to $5 billion by 2024. A 40% projected growth from 2017 to 2024 “
 
+
 ![](3_img.jpg)
+
+
 
 ## Challenges
 
@@ -50,6 +56,7 @@ Although implementing can be costly, in the long run, the expenses come up to be
 
 Example: Screening colonoscopy
 
+
 ![](4_img.jpg)
 
 
@@ -60,6 +67,7 @@ This challenge with time will become less likely as the industry grows, budgets 
 
 Example: Advancing artificial intelligence from machine learning to deep learning
 
+
 ![](5_img.jpg)
 
 
@@ -67,9 +75,14 @@ Example: Advancing artificial intelligence from machine learning to deep learnin
 
 With the rise of cloud-based solutions in AI systems, large amounts of personal data, such as medical records, data which can be sensitive and confidential are being created. It is important to ensure that it is secure and not used for any purpose other than the intended one. The way Cybersecurity evolves and budgets increase in the upcoming years will play a huge role in the deployment of AI in the future and the safe manipulation of highly personalized data. 
 
+
 ![](6_img.jpg)
 
+
+
 ![](7_img.jpg)
+
+
 
 ![](8_img.jpg)
 
