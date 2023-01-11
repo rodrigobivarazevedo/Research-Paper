@@ -72,7 +72,7 @@ Although it has the potential to revolutionize healthcare, there are still chall
 
 
 As AI is still an emerging technology, we need to consider the total cost of ownership when implementing AI systems, as the cost can quickly add up and profit results may take some time to develop significantly. 
-Although implementing can be costly, in the long run, the expenses come up to be more efficient, meaning certain methods, tasks, and developments can become cheaper and balanced or even generate profit from the initial investment, especially in the branch of screening and imaging tests.
+Although implementing can be costly, in the long run, the expenses come up to be more efficient, meaning certain methods, tasks, and developments can become cheaper balancing or even generating profit from the initial investment, especially in the branch of screening and imaging tests.
 
 Example: Screening colonoscopy
 
