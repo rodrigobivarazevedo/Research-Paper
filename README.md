@@ -128,7 +128,7 @@ image used from [ https://www.eib.org/attachments/lucalli/20220206-european-cybe
 
 
 AI technology is changing the healthcare industry, with the potential to revolutionize the way that doctors practice medicine. Although not perfect and still a lot to improve in regards to cost, accuracy and privacy.
-AI-driven healthcare solutions have the potential to increase the accuracy and efficiency of diagnosis and treatment, reduce costs, and improve the overall quality of care, by automating processes, streamlining operations, and providing more accurate diagnoses. 
+AI-driven healthcare solutions have the potential to increase the effectiveness and efficiency of diagnosis and treatment, reduce costs, and improve the overall quality of care, by automating processes, streamlining operations, and providing more accurate diagnoses. 
 Tasks and methods such as disease prevention, drug discovery, disease modeling, diagnosis, treatment and patient monitoring will be improved and more streamlined. Examples like scheduling appointments, billing, and patient health profiles can all be automated processes, as well as more personalized patient treatment and monitoring.
 
 The world is becoming more digitally oriented, and the amount of free and created data available has never been so much, big data and machine deep learning are the new focus in digital health, which allow us to analyze faster, create new correlations and predictions in such data quantities, which a few years ago would not be possible. 
