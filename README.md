@@ -134,6 +134,7 @@ Tasks and methods such as disease prevention, drug discovery, disease modeling, 
 The world is becoming more digitally oriented, and the amount of free and created data available has never been so much, big data and machine deep learning are the new focus in digital health, which allow us to analyze faster, create new correlations and predictions in such data quantities, which a few years ago would not be possible. 
 
 AI still has its challenges; its ethical and effective implementation will need the collaboration of all the required stakeholders in the health and other joint industries.
+
 The healthcare industry is in an evolving state and AI is there to follow and improve how to streamline and remodel the practice of medicine worldwide.
 
   
