@@ -7,7 +7,7 @@
 
 
 
-                             ## Introduction
+##                            Introduction
                              
 
 Artificial intelligence (AI) is a rapidly growing technology that is being applied to various industries, including the healthcare sector. It is transforming healthcare in a variety of ways, from improving patient care to streamlining administrative tasks. 
@@ -22,7 +22,7 @@ This research paper will explore the potential improvements in healthcare with A
  
  
  
-                            ## AI-Driven solutions in healthcare
+##                            AI-Driven solutions in healthcare
 
 
 ### Diagnosis, Treatment and Patient Monitoring 
@@ -61,7 +61,7 @@ Example: Use of AI in pharmaceutical companies
 
 
 
-                           ## Challenges
+##                             Challenges
                            
 
 The development of AI in medicine requires the collaboration of multiple stakeholders, including clinicians, researchers, and industry partners. This collaboration is necessary to ensure that AI is used responsibly and ethically.
@@ -124,7 +124,7 @@ image used from [ https://www.eib.org/attachments/lucalli/20220206-european-cybe
 
 
 
-                          ## Conclusion 
+##                             Conclusion 
 
 
 AI technology is changing the healthcare industry, with the potential to revolutionize the way that doctors practice medicine. Although not perfect and still a lot to improve in regards to cost, accuracy and privacy.
