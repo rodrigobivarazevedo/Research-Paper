@@ -32,9 +32,9 @@ It is being used to develop more accurate and efficient methods of diagnosis and
 
 Example of “The role of AI technology in prediction, diagnosis and treatment of colorectal cancer”
 
-“GeoAI works by taking any information and data from a specific geographical area and allows artificial intelligence modalities to compile and retrieve more specific information from these data, based on what type of information they want”
+**“GeoAI works by taking any information and data from a specific geographical area and allows artificial intelligence modalities to compile and retrieve more specific information from these data, based on what type of information they want”**
 
-“Introduction of an artificial neural network (ANN) with input layer (I), hidden layer (H), bias layer (B) and output layer (O). Connections between each node are dynamically adjusted to the feedback of training process. Positive correlation is showed in black line while negative correlation is in grey line. The thickness of line is in proportion to relative significance. Such ANN allows new input and generates given output”
+** “Introduction of an artificial neural network (ANN) with input layer (I), hidden layer (H), bias layer (B) and output layer (O). Connections between each node are dynamically adjusted to the feedback of training process. Positive correlation is showed in black line while negative correlation is in grey line. The thickness of line is in proportion to relative significance. Such ANN allows new input and generates given output” **
 
 
 ![](2_img.jpg)
@@ -51,7 +51,7 @@ Developing new drugs can be more efficient. Large datasets can be analyzed and h
 
 Example: Use of AI in pharmaceutical companies
 
-“To decrease the financial cost and chances of failures that accompany VS, pharmaceutical companies are shifting towards AI. There was an increase in the AI market from US$200 million in 2015 to US$700 million in 2018, and is expected to increase to $5 billion by 2024. A 40% projected growth from 2017 to 2024 “
+** “To decrease the financial cost and chances of failures that accompany VS, pharmaceutical companies are shifting towards AI. There was an increase in the AI market from US$200 million in 2015 to US$700 million in 2018, and is expected to increase to $5 billion by 2024. A 40% projected growth from 2017 to 2024“ **
 
 
 ![](3_img.jpg)
