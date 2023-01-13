@@ -157,7 +157,7 @@ The healthcare industry is in an evolving state and AI is there to follow and im
  
  5.	Zhu, H. (2020). Big Data and Artificial Intelligence Modeling for Drug Discovery. Annual Review of Pharmacology and Toxicology, 60(1), 573–589. https://doi.org/10.1146/annurev-pharmtox-010919-023324 
  
- 6.	European Investment Bank 2023. (2022, October 19). European Cybersecurity Investment Platform. Www.Eib.Org. https://www.eib.org/en/publications/20220206-european-cybersecurity-investment-platform 
+ 6.	European Investment Bank 2023. (2022, October 19). European Cybersecurity Investment Platform. Eib.Org. https://www.eib.org/en/publications/20220206-european-cybersecurity-investment-platform 
  
  7.	AI General Practice Dentist. (n.d.). https://medibot.com.au/ai-general-practice-dentist 
  
