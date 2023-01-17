@@ -1,6 +1,30 @@
 @import "jekyll-theme-cayman";
 .main-content {
-  h1 {
-   color: #ff0000;
+  h2 {
+   color: #0909FF;
  }
 }
+body {
+  color: #FFFFFF;
+}
+
+a {
+  color: #FFFFFF;
+}
+
+.page-header {
+  color: #0909FF;
+  text-align: center;
+  background-color: #FFFFFF;
+
+.main-content {
+  h1,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: #FFFFFF;
+  }
