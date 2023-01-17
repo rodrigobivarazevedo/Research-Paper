@@ -3,22 +3,21 @@
 image used from [www.medibot.com.au/ai-general-practice-dentist.php](http://www.medibot.com.au/ai-general-practice-dentist.php)
 <br/>
 <br/>
-## Index:
-
+## Index
 1. [Introduction](#Introduction)
 
-2. [AI-Driven solutions in Healthcare](#AI-Driven solutions in Healthcare)
-
-&nbsp; - [Diagnosis, Treatment and Patient Monitoring](#Diagnosis, Treatment and Patient Monitoring)
-&nbsp; - [Drug Discovery and Disease Modeling](#Drug Discovery and Disease Modeling)
+2. [AI-Driven solutions in healthcare](#AI-Driven-solutions-in-healthcare)
+   1. [Diagnosis, Treatment and Patient Monitoring](#Diagnosis,-Treatment-and-Patient-Monitoring)
+   2. [Drug Discovery and Disease Modeling](#Drug-Discovery-and-Disease-Modeling)
 
 3. [Challenges](#Challenges)
-
-&nbsp; - [Cost](#Cost)
-&nbsp; - [Accuracy](#Accuracy)
-&nbsp; - [Privacy](#Privacy)
+   1. [Cost](#Cost)
+   2. [Accuracy](#Accuracy)
+   3. [Privacy](#Privacy)
 
 4. [Conclusion](#Conclusion)
+
+5. [Sources](#Sources)
 
 <br/>
 <br/>
