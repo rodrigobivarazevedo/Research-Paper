@@ -37,7 +37,7 @@ Artificial intelligence (AI) is an emerging technology revolutionizing the healt
  **“An overview of the applications of artificial intelligence”**, (Dlamini et al., 2020d)
 <br/>
 <br/>
-![](1_img.jpg)
+![](/assets/1_img.jpg)
    
 image used from [https://www.sciencedirect.com/science/article/pii/S200103702030372X](https://www.sciencedirect.com/science/article/pii/S200103702030372X) 
 <br/>
@@ -63,7 +63,7 @@ Example of: **“The role of AI technology in prediction, diagnosis and treatmen
 <br/>
 <br/>
 <br/>
-![](2_img.jpg)
+![](/assets/2_img.jpg)
 
  image used from [https://link.springer.com/article/10.1007/s10462-021-10034-y](https://link.springer.com/article/10.1007/s10462-021-10034-y) 
 <br/>
@@ -82,7 +82,7 @@ Example of: **“Artificial intelligence in drug discovery and development.”**
 <br/>
 <br/>
 <br/>
-![](3_img.jpg)
+![](/assets/3_img.jpg)
 
 image used from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7577280/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7577280/) 
 <br/>
@@ -106,7 +106,7 @@ Example of: **“Cost-effectiveness of artificial intelligence for screening col
 <br/>
 <br/>
 <br/>
-![](4_img.jpg)
+![](/assets/4_img.jpg)
 
 image used from [https://www.thelancet.com/action/showPdf?pii=S2589-7500%2822%2900042-5](https://www.thelancet.com/action/showPdf?pii=S2589-7500%2822%2900042-5) 
 <br/>
@@ -122,7 +122,7 @@ Example of: **“Big Data and Artificial Intelligence Modeling for Drug Discover
 <br/>
 <br/>
 <br/>
-![](5_img.jpg)
+![](/assets/5_img.jpg)
 
 image used from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7010403/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7010403/) 
 <br/>
@@ -138,13 +138,13 @@ Example of: **“European Cybersecurity Investment Platform.”**, (European Inv
 <br/>
 <br/>
 <br/>
-![](6_img.jpg)
+![](/assets/6_img.jpg)
 <br/>
 <br/>
-![](7_img.jpg)
+![](/assets/7_img.jpg)
 <br/>
 <br/>
-![](8_img.jpg)
+![](/assets/8_img.jpg)
 
 CAGR – the compound annual growth rate, is the annualized average rate of revenue growth between any given years.
 
