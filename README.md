@@ -20,7 +20,6 @@ image used from [https://medibot.com.au/ai-general-practice-dentist](https://med
 5. [Sources](#Sources)
 
 
-{:toc}
 
 
  
