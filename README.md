@@ -26,7 +26,7 @@ image used from [https://medibot.com.au/ai-general-practice-dentist](https://med
 <br/>
 <br/>
 <br/>
-## **Introduction**
+## Introduction
 <br/>
 <br/>
 Artificial intelligence (AI) is an emerging technology revolutionizing the healthcare sector. It is transforming healthcare in a variety of ways, from improving patient care to streamlining administrative tasks. The deployment of AI systems can improve efficiency regarding cost and time management by automating administrative tasks and repetitive processes that can be streamlined. It can also increase the effectiveness of medical procedures as AI can be used to analyze specific data and make connections or predictions that humans may not be able to when trying to diagnose a patient or developing new drugs and treatments, enabling healthcare professionals to make more informed decisions. This research paper will explore the potential improvements in healthcare with AI, the efficiency and effectiveness increase it could bring, and the challenges faced upon its implementation.
@@ -42,11 +42,11 @@ image used from [https://www.sciencedirect.com/science/article/pii/S200103702030
 <br/>
 <br/>
 <br/>
-## **AI-Driven solutions in healthcare**
+## AI-Driven solutions in healthcare
 <br/>
 <br/>
 <br/>
-### **Diagnosis, Treatment and Patient Monitoring** 
+### Diagnosis, Treatment and Patient Monitoring
 <br/>
 <br/>
 It is being used to develop more accurate and efficient methods of diagnosis and treatment while also having the capability to predict possible conditions related to certain symptoms, lifestyles, and social, economic, and geographical environments. AI-driven solutions have the potential to supplement or even replace traditional methods of diagnosis and treatment, such as manual diagnosis and manual treatments. AI-driven treatments can be used to personalize treatments and patient health profiles, which can help doctors better understand patient health and provide more personalized care.
@@ -67,7 +67,7 @@ Example of: **“The role of AI technology in prediction, diagnosis and treatmen
 <br/>
 <br/>
 <br/>
-### **Drug Discovery and Disease Modeling** 
+### Drug Discovery and Disease Modeling
 <br/>
 <br/>
 Developing new drugs can be more efficient. Large datasets can be analyzed and help to identify potential drug targets, as well as potential disease pathways. This can personalize the development of new treatments and better understand certain diseases' pathogenesis. AI-driven drug discovery solutions have the potential to significantly reduce the cost and time involved in drug discovery and development. 
@@ -87,14 +87,14 @@ image used from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7577280/](https://
 <br/>
 <br/>
 <br/>
-## **Challenges**
+## Challenges
 <br/>
 <br/>
 The responsible and ethical development of AI in medicine requires the collaboration of multiple stakeholders, including clinicians, researchers, and industry partners. Although it has the potential to revolutionize healthcare, there are still challenges that need to be addressed before it can be widely adopted. These challenges include **cost**, **accuracy**, and **privacy**.
 <br/>
 <br/>
 <br/>
-### **Cost**
+### Cost
 <br/>
 <br/>
 As AI is still an emerging technology, we need to consider the total cost of ownership when implementing AI systems, as the cost can quickly add up and profit results may take some time to develop significantly. Although implementing can be costly, in the long run, the expenses come up to be more efficient, meaning certain methods, tasks, and developments can become cheaper balancing, or even generating profit from the initial investment, especially in the branch of screening and imaging tests.
@@ -110,7 +110,7 @@ image used from [https://www.thelancet.com/action/showPdf?pii=S2589-7500%2822%29
 <br/>
 <br/>
 <br/>
-### **Accuracy**
+### Accuracy
 <br/>
 <br/>
 It is also important to know that AI systems are not perfect and can also create mistakes, such as misdiagnosis. To reduce the risk of errors, big amounts of data accompanied by high-processing computer units are required to successfully train and develop reliable AI systems. This challenge with time will become less likely as the industry grows, budgets increase, and development becomes more advanced. With the advances in the industry, technologies such as cloud-based computing and deep learning will increase the effectiveness of AI, allowing enterprises to share, store, and analyze bigger sets of data, as the era of Big Data arises. 
@@ -126,7 +126,7 @@ image used from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7010403/](https://
 <br/>
 <br/>
 <br/>
-### **Privacy**
+### Privacy
 <br/>
 <br/>
 With the rise of cloud-based solutions in AI systems, large amounts of personal data, such as medical records, and data that can be sensitive and confidential are being created. It is important to ensure that it is secure and not used for any purpose other than the intended one. The way Cybersecurity evolves and budgets increase in the upcoming years will play a huge role in the deployment of AI in the future and the safe manipulation of highly personalized data. 
@@ -151,7 +151,7 @@ images used from [ https://www.eib.org/attachments/lucalli/20220206-european-cyb
 <br/>
 <br/>
 <br/>
-## **Conclusion** 
+## Conclusion 
 <br/>
 <br/>
 AI technology is changing the healthcare industry, with the potential to revolutionize the way that doctors practice medicine. **Although not perfect and still a lot to improve in regards to cost, accuracy, and privacy. AI-driven healthcare solutions have the potential to increase the effectiveness and efficiency of diagnosis and treatment, reduce costs, and improve the overall quality of care, by automating processes, streamlining operations, and providing more accurate diagnoses. Tasks and methods such as disease prevention, drug discovery, disease modeling, diagnosis, treatment, and patient monitoring will be improved and more streamlined.** Examples like scheduling appointments, billing, and patient health profiles can all be automated processes, as well as more personalized patient treatment and monitoring. 
