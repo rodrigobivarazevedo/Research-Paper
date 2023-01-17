@@ -166,17 +166,17 @@ The world is becoming more digitally oriented, and the amount of free and create
 <br/>
 ## Sources 
 
- 1. Dlamini, Z., Francies, F. Z., Hull, R., & Marima, R. (2020). Artificial intelligence (AI) and big data in cancer and precision oncology. Computational and Structural Biotechnology Journal, 18, 2300- 2311. https://doi.org/10.1016/j.csbj.2020.08.019
+ 1. Dlamini, Z., Francies, F. Z., Hull, R., & Marima, R. (2020). Artificial intelligence (AI) and big data in cancer and precision oncology. Computational and             Structural Biotechnology Journal, 18, 2300- 2311. https://doi.org/10.1016/j.csbj.2020.08.019
  
- 2.	Yu, C., & Helwig, E. J. (2021). The role of AI technology in prediction, diagnosis and treatment of colorectal cancer. Artificial Intelligence Review, 55(1), 323–343. https://doi.org/10.1007/s10462-021-10034-y
+ 2. Yu, C., & Helwig, E. J. (2021). The role of AI technology in prediction, diagnosis and treatment of colorectal cancer. Artificial Intelligence Review, 55(1), 323–     343. https://doi.org/10.1007/s10462-021-10034-y
  
- 3.	Paul, D., Sanap, G., Shenoy, S., Kalyane, D., Kalia, K., & Tekade, R. K. (2021). Artificial intelligence in drug discovery and development. Drug Discovery Today, 26(1), 80–93. https://doi.org/10.1016/j.drudis.2020.10.010 
+ 3. Paul, D., Sanap, G., Shenoy, S., Kalyane, D., Kalia, K., & Tekade, R. K. (2021). Artificial intelligence in drug discovery and development. Drug Discovery Today,      26(1), 80–93. https://doi.org/10.1016/j.drudis.2020.10.010 
  
- 4.	Areia, M., Mori, Y., Correale, L., Repici, A., Bretthauer, M., Sharma, P., Taveira, F., Spadaccini, M., Antonelli, G., Ebigbo, A., Kudo, S. E., Arribas, J., Barua, I., Kaminski, M. F., Messmann, H., Rex, D. K., Dinis-Ribeiro, M., & Hassan, C. (2022). Cost-effectiveness of artificial intelligence for screening colonoscopy: a modelling study. The Lancet Digital Health, 4(6), e436–e444. https://doi.org/10.1016/s2589-7500(22)00042-5 
+ 4. Areia, M., Mori, Y., Correale, L., Repici, A., Bretthauer, M., Sharma, P., Taveira, F., Spadaccini, M., Antonelli, G., Ebigbo, A., Kudo, S. E., Arribas, J., Barua,    I., Kaminski, M. F., Messmann, H., Rex, D. K., Dinis-Ribeiro, M., & Hassan, C. (2022). Cost-effectiveness of artificial intelligence for screening colonoscopy: a       modelling study. The Lancet Digital Health, 4(6), e436–e444. https://doi.org/10.1016/s2589-7500(22)00042-5 
  
- 5.	Zhu, H. (2020). Big Data and Artificial Intelligence Modeling for Drug Discovery. Annual Review of Pharmacology and Toxicology, 60(1), 573–589. https://doi.org/10.1146/annurev-pharmtox-010919-023324 
+ 5. Zhu, H. (2020). Big Data and Artificial Intelligence Modeling for Drug Discovery. Annual Review of Pharmacology and Toxicology, 60(1), 573–589.                         https://doi.org/10.1146/annurev-pharmtox-010919-023324 
  
- 6.	European Investment Bank 2023. (2022, October 19). European Cybersecurity Investment Platform. Eib.Org. https://www.eib.org/en/publications/20220206-european-cybersecurity-investment-platform 
+ 6. European Investment Bank 2023. (2022, October 19). Eib.Org. https://www.eib.org/en/publications/20220206-european-cybersecurity-investment-platform 
  
- 7.	AI General Practice Dentist. (n.d.). https://medibot.com.au/ai-general-practice-dentist
+ 7. AI General Practice Dentist. (n.d.). https://medibot.com.au/ai-general-practice-dentist
  
