@@ -1,6 +1,6 @@
 ![](/assets/main_img.jpg)
 
-image used from [https://medibot.com.au/ai-general-practice-dentist](https://medibot.com.au/ai-general-practice-dentist)
+
 
 
 ## Index
@@ -38,7 +38,7 @@ Artificial intelligence (AI) is an emerging technology revolutionizing the healt
 
 ![](/assets/1_img.jpg)
    
-image [1](#1)
+
 
 
 
@@ -64,7 +64,7 @@ Example of: **“The role of AI technology in prediction, diagnosis and treatmen
 
 ![](/assets/2_img.jpg)
 
-image used from [https://link.springer.com/article/10.1007/s10462-021-10034-y](https://link.springer.com/article/10.1007/s10462-021-10034-y) 
+
 
 
 
@@ -83,7 +83,7 @@ Example of: **“Artificial intelligence in drug discovery and development.”**
 
 ![](/assets/3_img.jpg)
 
-image used from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7577280/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7577280/) 
+
 
 
 
@@ -107,7 +107,7 @@ Example of: **“Cost-effectiveness of artificial intelligence for screening col
 
 ![](/assets/4_img.jpg)
 
-image used from [https://www.thelancet.com/action/showPdf?pii=S2589-7500%2822%2900042-5](https://www.thelancet.com/action/showPdf?pii=S2589-7500%2822%2900042-5) 
+
 
 
 
@@ -123,7 +123,7 @@ Example of: **“Big Data and Artificial Intelligence Modeling for Drug Discover
 
 ![](/assets/5_img.jpg)
 
-image used from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7010403/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7010403/) 
+
 
 
 
@@ -147,7 +147,7 @@ Example of: **“European Cybersecurity Investment Platform.”**, (European Inv
 
 CAGR – the compound annual growth rate, is the annualized average rate of revenue growth between any given years.
 
-images used from [ https://www.eib.org/attachments/lucalli/20220206-european-cybersecurity-investment-platform-en.pdf](https://www.eib.org/attachments/lucalli/20220206-european-cybersecurity-investment-platform-en.pdf)
+
 
 
 
@@ -180,5 +180,5 @@ The world is becoming more digitally oriented, and the amount of free and create
  6. European Investment Bank 2023. (2022, October 19). Eib.Org. 
     [https://www.eib.org/en/publications/20220206-european-cybersecurity-investment-platform](https://www.eib.org/en/publications/20220206-european-cybersecurity-investment-platform) 
  
- 7. AI General Practice Dentist. (n.d.). [https://medibot.com.au/ai-general-practice-dentist](https://medibot.com.au/ai-general-practice-dentist)
+ 7. AI General Practice Dentist. (n.d.). [https://medibot.com.au/ai-general-practice-dentist](https://medibot.com.au/ai-general-practice-dentist) (Header image)
  
