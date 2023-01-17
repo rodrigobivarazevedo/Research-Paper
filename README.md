@@ -38,7 +38,7 @@ Artificial intelligence (AI) is an emerging technology revolutionizing the healt
 
 ![](/assets/1_img.jpg)
    
-image used from [https://www.sciencedirect.com/science/article/pii/S200103702030372X](https://www.sciencedirect.com/science/article/pii/S200103702030372X) 
+image [1](1)
 
 
 
