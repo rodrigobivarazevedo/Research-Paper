@@ -1,4 +1,4 @@
-![](main_img.jpg)
+![](/assets/main_img.jpg)
 
 image used from [https://medibot.com.au/ai-general-practice-dentist](https://medibot.com.au/ai-general-practice-dentist)
 <br/>
