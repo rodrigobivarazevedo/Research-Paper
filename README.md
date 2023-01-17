@@ -1,6 +1,6 @@
 ![](main_img.jpg)
 
-image used from [www.medibot.com.au/ai-general-practice-dentist.php](http://www.medibot.com.au/ai-general-practice-dentist.php)
+image used from [https://medibot.com.au/ai-general-practice-dentist](https://medibot.com.au/ai-general-practice-dentist)
 <br/>
 <br/>
 ## Index
@@ -178,5 +178,5 @@ The world is becoming more digitally oriented, and the amount of free and create
  
  6.	European Investment Bank 2023. (2022, October 19). European Cybersecurity Investment Platform. Eib.Org. https://www.eib.org/en/publications/20220206-european-cybersecurity-investment-platform 
  
- 7.	AI General Practice Dentist. (n.d.). https://medibot.com.au/ai-general-practice-dentist 
+ 7.	AI General Practice Dentist. (n.d.). https://medibot.com.au/ai-general-practice-dentist
  
