@@ -38,7 +38,7 @@ Artificial intelligence (AI) is an emerging technology revolutionizing the healt
 
 ![](/assets/1_img.jpg)
    
-image [1](1)
+image [1](#1)
 
 
 
