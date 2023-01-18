@@ -38,6 +38,14 @@ h2 {
     display: inline;
     }
 
+h3 {
+    display: inline;
+  }
+  h3:before {
+    content: "\a ";
+    white-space: pre;
+  }
+
 a {
     color: #000000;
     text-decoration: none;
