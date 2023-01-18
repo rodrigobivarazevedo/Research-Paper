@@ -43,9 +43,6 @@ h3 {
   h3:before {
       content: "\a ";
       white-space: pre;
-      &::after {
-          content: "\a ";
-          white-space: pre;
   }
   
   
