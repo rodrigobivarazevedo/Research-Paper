@@ -1,28 +1,6 @@
 ![](/assets/main_img.jpg)
 
 
-
-
-## Index
-1. [Introduction](#Introduction)
-
-2. [AI-Driven solutions in healthcare](#AI-Driven-solutions-in-healthcare)
-   1. [Diagnosis, Treatment and Patient Monitoring](#Diagnosis,-Treatment-and-Patient-Monitoring)
-   2. [Drug Discovery and Disease Modeling](#Drug-Discovery-and-Disease-Modeling)
-
-3. [Challenges](#Challenges)
-   1. [Cost](#Cost)
-   2. [Accuracy](#Accuracy)
-   3. [Privacy](#Privacy)
-
-4. [Conclusion](#Conclusion)
-
-5. [Sources](#Sources)
-
-
-
-
- 
 # How can AI create efficiency and effectiveness in Digital Health. What are the benefits and challenges to come.
 
 
