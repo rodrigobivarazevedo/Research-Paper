@@ -1,6 +1,6 @@
 ---
 ---
-
+$myFont: Helvetica, sans-serif;
 @import "{{ site.theme }}";
 
 page-header {
@@ -15,7 +15,7 @@ page-header {
 }
 body {
    
-    font-family: Helvetica;
+    font-family: $myFont;
     font-size: 16px;
     line-height: 1.5;
     background-color: #FFFFFF;
@@ -26,14 +26,14 @@ body {
 
 
 main-content {
-    font-family: Helvetica;
+    font-family: $myFont;
     font-weight: bold;
     color: #4a148c;
     display: block;           
     }
 
 h2 { 
-    font-family: Helvetica;
+    font-family: $myFont;
     font-weight: bold
     text-align: center;
     display: inline;
@@ -45,14 +45,14 @@ h2::after {
     }
 
 h3 { 
-    font-family: Helvetica;
+    font-family: $myFont;
     font-weight: bold
     text-align: center;
     display: inline;
     color: #4a148c;
     }
 h3::after {
-    content: "";
+    content: "/a";
     display: block;
     }
     
