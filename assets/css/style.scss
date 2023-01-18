@@ -58,6 +58,10 @@ h3 {
     content: "\a ";
     white-space: pre;
   }
+  h2:after {
+      content: "\a ";
+      white-space: pre;
+  }
 
 a {
     color: #000000;
