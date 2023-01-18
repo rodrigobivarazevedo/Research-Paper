@@ -30,31 +30,27 @@ h2::before {
     content: " ";
     display: block;
     }
-
-h3::before {
-    content: " ";
-    display: block;
-    }
-
-h2::after {
-    content: " ";
-    display: block;
-    }
-
-h3::after {
-    content: " ";
-    display: block;
-    }
-
 h2 {
     font-weight: bold;
     text-align: center;
     display: inline;
     }
+h2::after {
+    content: " ";
+    display: block;
+    }
 
+h3::before {
+    content: " ";
+    display: block;
+    }
 h3 { 
     font-weight: bold;
     display: inline;
+    }
+h3::after {
+    content: " ";
+    display: block;
     }
 
 a {
