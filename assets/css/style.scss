@@ -15,7 +15,7 @@ page-header {
 }
 body {
    
-    //font-family: 'Arial;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     line-height: 1.5;
     background-color: #FFFFFF;
@@ -24,16 +24,7 @@ body {
     padding: 0;
     }
 
-
-main-content {
-    //font-family: 'Roboto', sans-serif;
-    font-weight: bold;
-    color: #4a148c;
-    display: block;           
-    }
-
 h2 { 
-    //font-family: 'Roboto', sans-serif;
     font-weight: bold
     text-align: center;
     display: inline;
@@ -45,7 +36,6 @@ h2::after {
     }
 
 h3 { 
-    //font-family: 'Roboto', sans-serif;
     font-weight: bold
     display: inline;
     color: #4a148c;
