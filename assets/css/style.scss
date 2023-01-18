@@ -23,7 +23,6 @@ img {
 }
 
 body {
-    text-align: center;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     line-height: 1.5;
@@ -39,7 +38,7 @@ h2 {
     display: inline;
     }
 
-h3 { display: block; }
+h3 { display: inline; }
 
 a {
     color: #000000;
