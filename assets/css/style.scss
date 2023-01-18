@@ -37,6 +37,20 @@ h2 {
     text-align: center;
     }
 
+h2 {
+    display: inline;
+  }
+  h2:before {
+    content: "\a ";
+    white-space: pre;   
+  }
+  h2:after {
+      content: "\a ";
+      white-space: pre;
+  }
+      
+       
+
 h3 {
     display: inline;
   }
