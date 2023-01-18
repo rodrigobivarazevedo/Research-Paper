@@ -25,12 +25,14 @@ body {
     }
 
 
-h5, h6, h9, h13, h14 {
+main-content {
+    
+    h1, h2, h3 {
     text-align: center;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
     color: #4a148c;
-    display: block;
+    display: block;           
     }
     
 a {
