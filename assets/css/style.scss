@@ -24,7 +24,12 @@ body {
     padding: 0;
     }
 
-h1, h2, h3::before {
+h2, h3::before {
+    content: "";
+    display: block;
+    }
+
+h1, h2, h3::after {
     content: "";
     display: block;
     }
@@ -33,27 +38,14 @@ h1, h2 {
     font-weight: bold;
     text-align: center;
     display: inline;
-    color: #4a148c;
-    }
-
-h1, h2::after {
-    content: "";
-    display: block;
     }
 
 h3 { 
     font-weight: bold;
     display: inline;
-    color: #4a148c;
     }
 
-h3::after {
-    content: "";
-    display: block;
-    }
-   
 a {
-    
     color: #000000;
     text-decoration: none;
     &:hover {
