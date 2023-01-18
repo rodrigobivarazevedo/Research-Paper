@@ -38,11 +38,6 @@ h2 {
     display: inline;
     }
 
-h3::after{
-    content: "\a";
-    white-space: pre;
-}
-
 a {
     color: #000000;
     text-decoration: none;
