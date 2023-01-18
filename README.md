@@ -1,4 +1,4 @@
-![](/assets/main_img.jpg)
+![](main_img.jpg)
 
 
 # How can AI create efficiency and effectiveness in Digital Health. What are the benefits and challenges to come.
@@ -14,7 +14,7 @@ Artificial intelligence (AI) is an emerging technology revolutionizing the healt
  **“An overview of the applications of artificial intelligence”**, (Dlamini et al., 2020d)
 
 
-![](/assets/1_img.jpg)
+![](1_img.jpg)
    
 
 
@@ -40,7 +40,7 @@ It is being used to develop more accurate and efficient methods of diagnosis and
 
 
 
-![](/assets/2_img.jpg)
+![](2_img.jpg)
 
 
 
@@ -59,7 +59,7 @@ Developing new drugs can be more efficient. Large datasets can be analyzed and h
 
 
 
-![](/assets/3_img.jpg)
+![](3_img.jpg)
 
 
 
@@ -83,7 +83,7 @@ As AI is still an emerging technology, we need to consider the total cost of own
 
 
 
-![](/assets/4_img.jpg)
+![](4_img.jpg)
 
 
 
@@ -99,7 +99,7 @@ It is also important to know that AI systems are not perfect and can also create
 
 
 
-![](/assets/5_img.jpg)
+![](5_img.jpg)
 
 
 
@@ -115,13 +115,13 @@ With the rise of cloud-based solutions in AI systems, large amounts of personal 
 
 
 
-![](/assets/6_img.jpg)
+![](6_img.jpg)
 
 
-![](/assets/7_img.jpg)
+![](7_img.jpg)
 
 
-![](/assets/8_img.jpg)
+![](8_img.jpg)
 
 CAGR – the compound annual growth rate, is the annualized average rate of revenue growth between any given years.
 
