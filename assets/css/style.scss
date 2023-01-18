@@ -15,7 +15,7 @@ page-header {
 }
 body {
    
-    font-family: Arial;
+    font-family: "Nunito", sans-serif;
     font-size: 16px;
     line-height: 1.5;
     background-color: #FFFFFF;
@@ -32,7 +32,29 @@ main-content {
     display: block;           
     }
 
-h2 { text-align: center; }
+h2 { 
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold
+    text-align: center;
+    display: inline;
+    color: #4a148c;
+    }
+h2::after {
+    content: "";
+    display: block;
+    }
+
+h3 { 
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold
+    text-align: center;
+    display: inline;
+    color: #4a148c;
+    }
+h3::after {
+    content: "";
+    display: block;
+    }
     
 a {
     
