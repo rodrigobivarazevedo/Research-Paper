@@ -6,8 +6,8 @@
 page-header {
     
     color: #FFFFFF;
-    //text-align: center;
-    background-color:  #4a148c;
+    font-family: ITC Serif Gothic;
+    //background-color:  #4a148c;
     background-image: linear-gradient(120deg, #c2185b, #4a148c);
     //background-image: linear-gradient(to bottom right, red, yellow);
     //url(main_img.jpg),
@@ -15,7 +15,7 @@ page-header {
 }
 body {
    
-    font-family: "Nunito", sans-serif;
+    font-family: Helvetica;
     font-size: 16px;
     line-height: 1.5;
     background-color: #FFFFFF;
@@ -26,26 +26,26 @@ body {
 
 
 main-content {
-    font-family: 'Roboto', sans-serif;
+    font-family: Helvetica;
     font-weight: bold;
     color: #4a148c;
     display: block;           
     }
 
 h2 { 
-    font-family: 'Roboto', sans-serif;
+    font-family: Helvetica;
     font-weight: bold
     text-align: center;
     display: inline;
     color: #4a148c;
     }
 h2::after {
-    content: "";
+    content: "/a";
     display: block;
     }
 
 h3 { 
-    font-family: 'Roboto', sans-serif;
+    font-family: Helvetica;
     font-weight: bold
     text-align: center;
     display: inline;
