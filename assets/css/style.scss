@@ -24,14 +24,20 @@ body {
     padding: 0;
     }
 
-h2 { 
+h1, h2, h3::before {
+    content: "";
+    display: block;
+    }
+
+h1, h2 {
     font-weight: bold;
     text-align: center;
     display: inline;
     color: #4a148c;
     }
-h2::after {
-    content: "/a";
+
+h1, h2::after {
+    content: "";
     display: block;
     }
 
@@ -40,15 +46,15 @@ h3 {
     display: inline;
     color: #4a148c;
     }
+
 h3::after {
-    content: "/a";
+    content: "";
     display: block;
     }
-    
+   
 a {
     
     color: #000000;
-    //font-weight: bold;
     text-decoration: none;
     &:hover {
         color: #FF0000;
