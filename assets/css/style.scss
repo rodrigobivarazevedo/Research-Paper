@@ -5,7 +5,8 @@
 
 .page-header {
     //text-align: center;
-    background-image: url("https://medibot.com.au/images/main_img.jpg");
+    //background-image: url("https://medibot.com.au/images/main_img.jpg");
+    background-image: url("/research-paper/assets/main_img.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -17,13 +18,13 @@
     //url(main_img.jpg),
     //background-size: cover; \n
    }
-.class {
-    background-image: url("/assets/main_img.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+//.class {
+    background-image: url("/research-paper/assets/main_img.jpg");
+   // background-position: center;
+    //background-repeat: no-repeat;
+    //background-size: cover;
       
-  }
+ // }
 
 img {
   display: block;
