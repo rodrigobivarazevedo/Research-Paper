@@ -3,9 +3,9 @@
 
 @import "{{ site.theme }}";
 
-page-header {
+.page-header {
     //text-align: center;
-    background-image: url("main_img.jpg");
+    background-image: url("/assets/main_img.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -17,7 +17,7 @@ page-header {
     //url(main_img.jpg),
     //background-size: cover; \n
    }
-class {
+.class {
     background-image: url("/assets/main_img.jpg");
     background-position: center;
     background-repeat: no-repeat;
