@@ -41,7 +41,7 @@ body {
     padding: 15px;
     display: inline;
   }
-  h3:before {
+.main-content h3:before {
       content: "\a ";
       white-space: pre;
   }
