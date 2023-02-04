@@ -1,1 +1,1 @@
-# Branch with blogplost configurations and assets
+# Branch with blogplost configurations and contents
