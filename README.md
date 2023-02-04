@@ -1,1 +1,1 @@
-# Digital Health Blog of Rodrigo Azevedo
+# Branch with blogplost configurations and assets
