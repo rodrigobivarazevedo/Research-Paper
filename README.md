@@ -1,6 +1,6 @@
 # Artificial Intelligence in Medicine
 
-## Digital Health Blog of Rodrigo Azevedo  
+## For Digital Health Blog of Rodrigo Azevedo redirect to branch site
 
 
 
