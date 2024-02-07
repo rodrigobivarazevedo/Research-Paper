@@ -1,5 +1,5 @@
 # Artificial Intelligence in Medicine
 
-## For Digital Health Blog of Rodrigo Azevedo redirect to branch site
+## Digital Health Blog of Rodrigo Azevedo
 
 ## website live at https://rodrigobivarazevedo.github.io/Research-Paper/
